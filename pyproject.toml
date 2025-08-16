@@ -11,6 +11,7 @@ dependencies = [
     "langchain-community>=0.3.27",
     "langchain-core>=0.3.72",
     "langchain-groq>=0.3.6",
+    "langchain-ollama>=0.3.6",
     "langserve>=0.3.1",
     "python-dotenv>=1.1.1",
     "sse-starlette>=3.0.2",
