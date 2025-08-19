@@ -9,3 +9,7 @@ fastapi
 uvicorn
 sse_starlette
 langchain-ollama
+bs4
+pypdf
+chromadb
+faiss-cpu
